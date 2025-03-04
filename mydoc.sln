@@ -1,11 +1,54 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mydoc", "mydoc", "{2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tkinter", "tkinter", "{DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97}"
+	ProjectSection(SolutionItems) = preProject
+		tkinter\01-tk.md = tkinter\01-tk.md
+		tkinter\02-text.md = tkinter\02-text.md
+		tkinter\03-frame.md = tkinter\03-frame.md
+		tkinter\04-button.md = tkinter\04-button.md
+		tkinter\about.md = tkinter\about.md
+		tkinter\README.md = tkinter\README.md
+		tkinter\style.css = tkinter\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{2F7BF329-2DF2-4E27-A1D9-CB054BF32BD9}"
+	ProjectSection(SolutionItems) = preProject
+		tkinter\img\00-mask.png = tkinter\img\00-mask.png
+		tkinter\img\01-tk-01.png = tkinter\img\01-tk-01.png
+		tkinter\img\02-text-01.png = tkinter\img\02-text-01.png
+		tkinter\img\03-frame-01.png = tkinter\img\03-frame-01.png
+		tkinter\img\favicon.ico = tkinter\img\favicon.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sblo", "sblo", "{0F5E6A8F-54E8-4C73-AC10-074079E06404}"
+	ProjectSection(SolutionItems) = preProject
+		sblo\001-大寒.md = sblo\001-大寒.md
+		sblo\005-はじめまして、デイジーです.md = sblo\005-はじめまして、デイジーです.md
+		sblo\007-立春.md = sblo\007-立春.md
+		sblo\008-十万石まんじゅう県に住んでいます.md = sblo\008-十万石まんじゅう県に住んでいます.md
+		sblo\009-雨水.md = sblo\009-雨水.md
+		sblo\010-このAI画像を作ったのは誰だぁ！.md = sblo\010-このAI画像を作ったのは誰だぁ！.md
+		sblo\README.md = sblo\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
+		{2F7BF329-2DF2-4E27-A1D9-CB054BF32BD9} = {DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97}
+		{0F5E6A8F-54E8-4C73-AC10-074079E06404} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39375CA5-8C3E-4C31-8D69-3AD21B6611BC}
