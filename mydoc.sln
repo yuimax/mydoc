@@ -38,6 +38,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sblo", "sblo", "{0F5E6A8F-5
 		sblo\008-十万石まんじゅう県に住んでいます.md = sblo\008-十万石まんじゅう県に住んでいます.md
 		sblo\009-雨水.md = sblo\009-雨水.md
 		sblo\010-このAI画像を作ったのは誰だぁ！.md = sblo\010-このAI画像を作ったのは誰だぁ！.md
+		sblo\011-啓蟄.md = sblo\011-啓蟄.md
 		sblo\README.md = sblo\README.md
 	EndProjectSection
 EndProject
@@ -52,6 +53,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{B3A38A6C-AAF
 		sblo\img\winter-pond.jpg = sblo\img\winter-pond.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{84A5DFDA-58C2-4730-A5FA-CCFB3A739DCF}"
+	ProjectSection(SolutionItems) = preProject
+		ai_qa\GitHubでフォルダごとにREADMEを置けますか.md = ai_qa\GitHubでフォルダごとにREADMEを置けますか.md
+		ai_qa\Go言語のtime.Format()のフォーマット記号.md = ai_qa\Go言語のtime.Format()のフォーマット記号.md
+		ai_qa\markd.jsの機能拡張-画像サイズ指定.md = ai_qa\markd.jsの機能拡張-画像サイズ指定.md
+		ai_qa\MkDocsでimgタグにサイズ属性を追加するプラグイン.md = ai_qa\MkDocsでimgタグにサイズ属性を追加するプラグイン.md
+		ai_qa\README.md = ai_qa\README.md
+		ai_qa\VRoidMMD企画2025.md = ai_qa\VRoidMMD企画2025.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,6 +72,7 @@ Global
 		{2F7BF329-2DF2-4E27-A1D9-CB054BF32BD9} = {DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97}
 		{0F5E6A8F-54E8-4C73-AC10-074079E06404} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
 		{B3A38A6C-AAFA-4C54-BA0E-0682832B2662} = {0F5E6A8F-54E8-4C73-AC10-074079E06404}
+		{84A5DFDA-58C2-4730-A5FA-CCFB3A739DCF} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39375CA5-8C3E-4C31-8D69-3AD21B6611BC}

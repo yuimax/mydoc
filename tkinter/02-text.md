@@ -2,7 +2,7 @@
 - 複数行のテキストを表示したり編集できるクラス
 
 ## サンプル
-![02-textbox.pyのスクリーンショット](img/02-text-01.png)
+![複数行のテキストを表示](img/02-text-01.png)
 
 ```python
 import tkinter

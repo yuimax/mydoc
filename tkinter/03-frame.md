@@ -3,7 +3,7 @@
 - 他の GUI パーツを置く土台にするとよい
 
 ## サンプル
-![02-frame-01.pyのスクリーンショット](img/03-frame-01.png)
+![フレームで画面を分割](img/03-frame-01.png)
 
 ```python
 import tkinter
@@ -47,13 +47,13 @@ root.mainloop()
 
 	| 項目名 | 意味 | デフォルト値 |
 	|---|---|---|
-	| background| 背景色 ( **bg** も可)| "SystemWindowText" |
-	|width|幅|（ピクセル単位）|
-	|height|高さ（ピクセル単位）|
-	|bd|枠線の太さ（ピクセル単位）|
-	|relief|枠線タイプ（flat, groove, raised, ridge, solid, sunken）
-	|padx|左右のパディング（ピクセル単位）|
-	|pady|上下のパディング（ピクセル単位）|
+	|background|背景色 ( **bg** も可)|"SystemWindowText"|
+	|width|幅| 0（ピクセル単位）|
+	|height|高さ| 0（ピクセル単位）|
+	|bd|枠線の太さ| 0（ピクセル単位）|
+	|relief|枠線タイプ（flat, groove, raised, ridge, solid, sunken）|solid|
+	|padx|左右のパディング|0（ピクセル単位）|
+	|pady|上下のパディング|0（ピクセル単位）|
 
 - 引数は「**名前付き引数 = 値**」形式
 
