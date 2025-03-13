@@ -63,6 +63,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{84A5DFDA
 		ai_qa\VRoidMMD企画2025.md = ai_qa\VRoidMMD企画2025.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{3945BB57-084D-4CA2-94C2-EC572A6B0E14}"
+	ProjectSection(SolutionItems) = preProject
+		ai_qa\img\vroidMMD_rule.png = ai_qa\img\vroidMMD_rule.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +78,7 @@ Global
 		{0F5E6A8F-54E8-4C73-AC10-074079E06404} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
 		{B3A38A6C-AAFA-4C54-BA0E-0682832B2662} = {0F5E6A8F-54E8-4C73-AC10-074079E06404}
 		{84A5DFDA-58C2-4730-A5FA-CCFB3A739DCF} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
+		{3945BB57-084D-4CA2-94C2-EC572A6B0E14} = {84A5DFDA-58C2-4730-A5FA-CCFB3A739DCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39375CA5-8C3E-4C31-8D69-3AD21B6611BC}
