@@ -46,6 +46,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{B3A38A6C-AAF
 	ProjectSection(SolutionItems) = preProject
 		sblo\img\10mangoku.jpg = sblo\img\10mangoku.jpg
 		sblo\img\detective_observing.jpg = sblo\img\detective_observing.jpg
+		sblo\img\grass_and_frog.png = sblo\img\grass_and_frog.png
 		sblo\img\plum_trees.jpg = sblo\img\plum_trees.jpg
 		sblo\img\robo-drawing.jpg = sblo\img\robo-drawing.jpg
 		sblo\img\th-daisy.jpg = sblo\img\th-daisy.jpg
