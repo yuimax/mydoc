@@ -55,12 +55,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{B3A38A6C-AAF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{84A5DFDA-58C2-4730-A5FA-CCFB3A739DCF}"
 	ProjectSection(SolutionItems) = preProject
-		ai_qa\GitHubでフォルダごとにREADMEを置けますか.md = ai_qa\GitHubでフォルダごとにREADMEを置けますか.md
-		ai_qa\Go言語のtime.Format()のフォーマット記号.md = ai_qa\Go言語のtime.Format()のフォーマット記号.md
-		ai_qa\markd.jsの機能拡張-画像サイズ指定.md = ai_qa\markd.jsの機能拡張-画像サイズ指定.md
-		ai_qa\MkDocsでimgタグにサイズ属性を追加するプラグイン.md = ai_qa\MkDocsでimgタグにサイズ属性を追加するプラグイン.md
+		ai_qa\2025-02-25_GitHubでフォルダごとにREADMEを置けますか.md = ai_qa\2025-02-25_GitHubでフォルダごとにREADMEを置けますか.md
+		ai_qa\2025-02-25_Go言語のtime.Format()のフォーマット記号.md = ai_qa\2025-02-25_Go言語のtime.Format()のフォーマット記号.md
+		ai_qa\2025-02-25_markd.jsの機能拡張-画像サイズ指定.md = ai_qa\2025-02-25_markd.jsの機能拡張-画像サイズ指定.md
+		ai_qa\2025-02-26_MkDocsでimgタグにサイズ属性を追加するプラグイン.md = ai_qa\2025-02-26_MkDocsでimgタグにサイズ属性を追加するプラグイン.md
+		ai_qa\2025-03-13_VRoidMMD企画2025.md = ai_qa\2025-03-13_VRoidMMD企画2025.md
 		ai_qa\README.md = ai_qa\README.md
-		ai_qa\VRoidMMD企画2025.md = ai_qa\VRoidMMD企画2025.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{3945BB57-084D-4CA2-94C2-EC572A6B0E14}"
