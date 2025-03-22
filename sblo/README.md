@@ -6,5 +6,7 @@
 - [‰J…](009-‰J….md)
 - [‚±‚ÌAI‰æ‘œ‚ðì‚Á‚½‚Ì‚Í’N‚¾‚ŸI](010-‚±‚ÌAI‰æ‘œ‚ðì‚Á‚½‚Ì‚Í’N‚¾‚ŸI.md)
 - [Œ[å­](011-Œ[å­.md)
+- [t•ª](012-Œ[å­.md)
+- [Gemini‚Ì•]”»‚ª—Ç‚¢‚Æ•·‚¢‚Ä](013-Gemini‚Ì•]”»‚ª—Ç‚¢‚Æ•·‚¢‚Ä.md)
 
 + Blog URL -- <https://yuima.sblo.jp/>
