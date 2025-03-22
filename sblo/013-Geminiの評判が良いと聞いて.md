@@ -8,7 +8,7 @@
 > 名探偵は、和服の着流しを着て、髪はポニーテールです 
 <!-- -->
 MS Copilot
-![探偵は操作中](img/detective_observing.jpg)
+![探偵は捜査中](img/detective_observing.jpg)
 <!-- -->
 Google Gemini
 ![捜査中の探偵](img/observing_detective.jpg)
