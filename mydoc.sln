@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sblo", "sblo", "{0F5E6A8F-5
 		sblo\009-雨水.md = sblo\009-雨水.md
 		sblo\010-このAI画像を作ったのは誰だぁ！.md = sblo\010-このAI画像を作ったのは誰だぁ！.md
 		sblo\011-啓蟄.md = sblo\011-啓蟄.md
+		sblo\012-春分.md = sblo\012-春分.md
+		sblo\013-Geminiの評判が良いと聞いて.md = sblo\013-Geminiの評判が良いと聞いて.md
 		sblo\README.md = sblo\README.md
 	EndProjectSection
 EndProject
@@ -47,9 +49,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{B3A38A6C-AAF
 		sblo\img\10mangoku.jpg = sblo\img\10mangoku.jpg
 		sblo\img\detective_observing.jpg = sblo\img\detective_observing.jpg
 		sblo\img\grass_and_frog.png = sblo\img\grass_and_frog.png
+		sblo\img\gemini_mascot.jpg = sblo\img\gemini_mascot.jpg
 		sblo\img\plum_trees.jpg = sblo\img\plum_trees.jpg
 		sblo\img\robo-drawing.jpg = sblo\img\robo-drawing.jpg
 		sblo\img\th-daisy.jpg = sblo\img\th-daisy.jpg
+		sblo\img\vernal_equinox_day.jpg = sblo\img\vernal_equinox_day.jpg
 		sblo\img\winter-field.jpg = sblo\img\winter-field.jpg
 		sblo\img\winter-pond.jpg = sblo\img\winter-pond.jpg
 	EndProjectSection
